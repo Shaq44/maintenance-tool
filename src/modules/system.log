@@ -21,3 +21,17 @@ INFO:Foo:Logical Processes:8
 INFO:Foo:CPU Percent:10.3 
 INFO:Foo:CPU Cores:4 
 INFO:Foo:Logical Processes:8 
+INFO:Foo:CPU Percent:2.1 
+INFO:Foo:CPU Cores:4 
+INFO:Foo:Logical Processes:8 
+INFO:Foo:Disk Usage:sdiskusage(total=494280896512, used=258461208576, free=235819687936, percent=52.3) 
+INFO:Foo:CPU Percent:1.2 
+INFO:Foo:CPU Cores:4 
+INFO:Foo:Logical Processes:8 
+INFO:Foo:Disk Usage:sdiskusage(total=494280896512, used=258457989120, free=235822907392, percent=52.3) 
+INFO:Foo:Virtual Memory:svmem(total=16893386752, available=2449973248, percent=85.5, used=14443413504, free=2449973248) 
+2025-01-28 23:29:31,378 CPU Percent:24.2 
+2025-01-28 23:29:31,386 CPU Cores:4 
+2025-01-28 23:29:31,386 Logical Processes:8 
+2025-01-28 23:29:31,386 Disk Usage:sdiskusage(total=494280896512, used=258895179776, free=235385716736, percent=52.4) 
+2025-01-28 23:29:31,386 Virtual Memory:svmem(total=16893386752, available=2834046976, percent=83.2, used=14059339776, free=2834046976) 
